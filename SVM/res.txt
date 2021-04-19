@@ -1,0 +1,11 @@
+ROC AUC score for SVM model with over-sampling: 0.8259
+SVM f1-score 0.4384331741522094
+SVM Reports
+               precision    recall  f1-score   support
+
+           0       0.96      0.78      0.86     71280
+           1       0.31      0.74      0.44      9829
+
+    accuracy                           0.77     81109
+   macro avg       0.63      0.76      0.65     81109
+weighted avg       0.88      0.77      0.81     81109
